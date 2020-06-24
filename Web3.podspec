@@ -36,7 +36,7 @@ HTTP RPC interface provided by this library or a custom RPC interface
     # Core dependencies
     ss.dependency 'BigInt', '~> 4.0'
     ss.dependency 'CryptoSwift', '~> 1.0'
-    ss.dependency 'secp256k1.swift', '~> 0.1'
+    ss.dependency 'secp256k1_swift', '~> 0.1'
   end
 
   s.subspec 'HTTPExtension' do |ss|
